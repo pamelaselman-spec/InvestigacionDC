@@ -1,5 +1,8 @@
 # Generated .gitignore patterns
 
+# Archivos CSV
+*.csv
+
 # Python
 __pycache__/
 *.py[cod]
